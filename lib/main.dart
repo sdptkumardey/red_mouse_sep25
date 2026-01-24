@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'GMPL App',
+      title: 'Red Mousee',
       debugShowCheckedModeBanner: false,
       home: const StartupPage(),
     );
